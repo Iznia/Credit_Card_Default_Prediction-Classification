@@ -1,0 +1,12 @@
+URL Deployment 
+
+Streamlit
+EDA =
+Prediction =
+app =
+
+Hugging Face
+[Deployment Iznia] (https://huggingface.co/spaces/Iznia/Credit_Card_Default)
+
+
+https://huggingface.co/spaces/Iznia/Credit_Card_Default
